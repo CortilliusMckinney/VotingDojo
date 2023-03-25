@@ -1,0 +1,47 @@
+.App {
+  /* text-align: center; */
+}
+
+
+/* ====================================LandingPageCSS================================ */
+.mainContainerLP{
+padding-left: 40px;
+padding-right: 40px;
+
+}
+
+
+
+input{
+  width: 200px;
+  margin-left: 70px;
+}
+
+/* ===================================AddPet=================================== */
+.skills{
+  width: 200px;
+  margin-left: 80px;
+ 
+}
+
+.form1{
+  width: 700px;
+  height: 600px;
+  margin-left: 300px;
+  background-color: orange;
+}
+/* ============================================DetailPet=============================== */
+h2{
+background-color: #fff;
+  
+}
+
+.detailContainer{
+ 
+  padding-left: 200px;
+  padding-bottom: 200px;
+  margin-top: 40px;
+  margin-left: 500px;
+  margin-right: 500px;
+  background-color: orange;
+  }
